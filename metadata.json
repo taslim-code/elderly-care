@@ -1,0 +1,8 @@
+{
+  "name": "ElderlyEase",
+  "description": "A comprehensive digital care platform for senior citizens, offering health monitoring, online consultations, medicine reminders, and mental wellness support in a user-friendly, software-only solution.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
